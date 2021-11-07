@@ -4,3 +4,9 @@ In this Challange we performed a refactoring of a code already written during th
 ## **Results** 
 After completing the excercise to refract the code we found that it runs much faster than the original code, while producting the same resutls.Below are the result screenshots displaying the time it took for the orginial code to run, and the time it took the refactored code to complete the same excercise was significantly shorter than the orginial. Below are results:
 #### 1. Original Code: 2017 Stock Analysis Run Time Resutls:
+
+![This is an image](https://github.com/AleksKostrycka/Stock-Analysis/blob/main/%20Originial%20Code%20-%202017%20Stock%20Analysis%20Run%20Time.png?raw=true)
+
+#### 2. Original Code: 2018 Stock Analysis Run Time Resutls:
+
+![This is an image](https://github.com/AleksKostrycka/Stock-Analysis/blob/main/Originial%20Code%20-%202018%20Stock%20Analysis%20Run%20Time.png?raw=true)
