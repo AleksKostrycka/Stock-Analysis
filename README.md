@@ -10,3 +10,12 @@ After completing the excercise to refract the code we found that it runs much fa
 #### 2. Original Code: 2018 Stock Analysis Run Time Resutls:
 
 ![This is an image](https://github.com/AleksKostrycka/Stock-Analysis/blob/main/Originial%20Code%20-%202018%20Stock%20Analysis%20Run%20Time.png?raw=true)
+
+#### 3. Refactored Code: 2017 Stock Analysis Run Time Resutls:
+
+![This is an image](https://github.com/AleksKostrycka/Stock-Analysis/blob/main/Refactored%20Code%202017%20Stock%20Analysis%20Run%20Time.png?raw=true)
+
+#### 4. Refactored Code: 2018 Stock Analysis Run Time Resutls:
+
+![This is an image](https://github.com/AleksKostrycka/Stock-Analysis/blob/main/Refactored%20Code%202018%20Stock%20Analysis%20Run%20.png?raw=true)
+
