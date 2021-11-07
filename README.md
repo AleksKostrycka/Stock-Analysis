@@ -19,3 +19,15 @@ After completing the excercise to refract the code we found that it runs much fa
 
 ![This is an image](https://github.com/AleksKostrycka/Stock-Analysis/blob/main/Refactored%20Code%202018%20Stock%20Analysis%20Run%20.png?raw=true)
 
+Comparing the screenshots above it is clear that the refactoring of the code significantly improved the run time. For 2017 the run time was reduced from .6 seconds to .1 second, showing significant improvement. For 2018 the run time was reduced from .6 seconds to .13 seconds. For both years we can see the same type of improvement. 
+
+The actual results of the analysis are the same regardless of the code used. Below are the screenshots of the results found by analyzing stocks in year 2017 and 2018. 
+
+#### Stock Analysis Results 2017
+
+![This is an image](https://github.com/AleksKostrycka/Stock-Analysis/blob/main/2017%20Final%20Table%20VBA%20Challange.png?raw=true)
+
+#### Stock Analysis Resutls 2018
+
+![This is an image](https://github.com/AleksKostrycka/Stock-Analysis/blob/main/2018%20Final%20Table%20VBA%20Challange.png?raw=true)
+
