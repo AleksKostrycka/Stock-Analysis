@@ -32,3 +32,6 @@ The actual results of the analysis are the same regardless of the code used. Bel
 ![This is an image](https://github.com/AleksKostrycka/Stock-Analysis/blob/main/2018%20Final%20Table%20VBA%20Challange.png?raw=true)
 
 Form the above resutls we can see that majority of the stocks that we were looking at were performing very well in 2017, and performed rather poorly in 2018. As this is a pattern in all the stocks that we were looking at, the person using the analysis, Steve can look at the macro economical conditions and changes year over year to identify the differences in the economy between the two years that might have caused all of these particular stocks to do worse, maybe the entire stock market was trading lower in 2017 than 2018. Another step that can be taken from this analysis is to look at the growth period of each of these stocks. 2017 seemed like a growth year, then the prices of these stocks were very high in the begining of 2018, through out the year the growth could have slowed and caused the prices to drop uby the end of 2018. Two stocks that are hilighted in 2018 are ENPH and RUN which have positive growth in both years, this could indicate that these stocks are contiously growing and with a little more research could be potentially good stocks to invest in.
+
+## **Summary**
+#### **Advantages and Disadvantaged of Refactoring Code.
